@@ -79,6 +79,7 @@ dataset/wider_face/WIDER_val
 dataset/wider_face/wider_face_split
 
 ppdet/version.py
+pretrain_weights
 
 # NPU meta folder
 kernel_meta/
